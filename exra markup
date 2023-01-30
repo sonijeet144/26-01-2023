@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=<section lass="items1">
+        <h2>YOUTUBE VIDEOS</h2>
+        <iframe class="items1" width="450" height="315" src="https://www.youtube.com/embed/ddmvaKdtPFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe class="items1" width="500" height="315" src="https://www.youtube.com/embed/fFa8qRvBPro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe class="items1" width="500" height="315" src="https://www.youtube.com/embed/NfjdPN8Y_fQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </section>
+    <h2>IMAGE</h2>
+    <img src="https://www.shutterstock.com/image-photo/micro-peacock-feather-hd-imagebest-260nw-1127238584.jpg" alt="" width="30%">
+    <img src="https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg?cs=srgb&dl=pexels-pixabay-36717.jpg&fm=jpg" width="35%" alt="">
+    <img src="https://www.shutterstock.com/image-photo/lotus-flower-hd-background-wallpaper-260nw-1273798846.jpg" alt="" width="30%">
+    <h2>GOOGLE MAP</h2>
+    <a href="https://www.google.com/maps/@22.8204871,72.3666297,15z">GOOGLE MAP</a>
+    <h2>VIDEO</h2>
+    <video src="https://player.vimeo.com/external/385075254.sd.mp4?s=d333af81e09e96cda10767de528cd8e266c6a1ca&profile_id=164&oauth2_token_id=57447761" width="100%" autoplay="" controls=""></video>
+        
+</head>
+<body>
+    
+</body>
+</html>
